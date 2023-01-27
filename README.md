@@ -4,7 +4,7 @@ Tenho 17 anos e descobrir o meu amor por codificar. Meu foco principal é desenv
 * 🌍 Moro em Araçoiaba-CE, Brasil
 * 📫 E-mail : [gustavolopesdev14@gmail.com](mailto:gustavolopesdev14@gmail.com)
 * 📚 Estudando JavaScript
-* 🤝 Estou aberto a colaborar em projetos que colaborem com meu aprendizado
+* 🤝 Estou aberto a colaborar com projetos que auxiliem meu aprendizado
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gugu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
