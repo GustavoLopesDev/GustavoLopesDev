@@ -14,8 +14,7 @@ Tenho 17 anos e descobrir o meu amor por codificar. Meu foco principal é desenv
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GustavoLopesDev&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GustavoLopesDev&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GustavoLopesDev&theme=monokai&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLopesDev&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🌐 Socials:
