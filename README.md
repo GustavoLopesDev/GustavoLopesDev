@@ -18,7 +18,7 @@ Tenho 17 anos e descobrir o meu amor por codificar. Meu foco principal é desenv
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLopesDev&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gustavolopesdev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavolopesdev/) 
 ---
 [![](https://visitcount.itsvg.in/api?id=GustavoLopesDev&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
