@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gustavo Lopes, estudante de programação!
-Tenho 17 anos e descobrir o meu amor por codificar. Meu foco principal é desenvolvimento Front-End, mas visando se tornar um desenvolvedor Fullstack.
+Tenho 18 anos e descobrir o meu amor por codificar. Meu foco principal é desenvolvimento Front-End, mas visando se tornar um desenvolvedor Fullstack.
 
-* 🌍 Moro em Araçoiaba-CE, Brasil
+* 🌍 Aracoiaba-CE, Brasil
 * 📫 E-mail : [gustavolopesdev14@gmail.com](mailto:gustavolopesdev14@gmail.com)
 * 📚 Estudando JavaScript
 * 🤝 Estou aberto a colaborar com projetos que auxiliem meu aprendizado
